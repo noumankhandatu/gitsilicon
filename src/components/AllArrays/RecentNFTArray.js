@@ -1,0 +1,53 @@
+import img from "../../assets/homeimage/h.png";
+import avatar from "../../assets/Avatars/avatar.png";
+const RecentNFTArray = [
+  {
+    title: "Flip Hoodies",
+    lable: "Digital Dream Stats",
+    img: img,
+    avatar: avatar,
+    titletwo: "Rent",
+    labletwo: "10.5ETH",
+    titlethree: "Rent",
+    lablethree: "10.5ETH",
+    titlefour: "Rented for",
+    lablefour: "04:20:15",
+  },
+  {
+    title: "Aka Datusing",
+    lable: "Aka Datusing",
+    img: img,
+    avatar: avatar,
+    titletwo: "Rent",
+    labletwo: "10.5ETH",
+    titlethree: "Rent",
+    lablethree: "10.5ETH",
+    titlefour: "Rented for",
+    lablefour: "04:20:15",
+  },
+  {
+    title: "Flip Hoodies",
+    lable: "Digital Dream Stats",
+    img: img,
+    avatar: avatar,
+    titletwo: "Rent",
+    labletwo: "10.5ETH",
+    titlethree: "Rent",
+    lablethree: "10.5ETH",
+    titlefour: "Rented for",
+    lablefour: "04:20:15",
+  },
+  {
+    title: "Aka Datusing",
+    lable: "Aka Datusing",
+    img: img,
+    avatar: avatar,
+    titletwo: "Rent",
+    labletwo: "10.5ETH",
+    titlethree: "Rent",
+    lablethree: "10.5ETH",
+    titlefour: "Rented for",
+    lablefour: "04:20:15",
+  },
+];
+export default RecentNFTArray;
